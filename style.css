@@ -1,0 +1,112 @@
+body {
+  background-color:#FBF8F1;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  color: #404040;
+}
+
+h3,h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:18px;
+
+}
+
+h1 {
+  color:#B68B29;
+  font-size: 22px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+
+.img_resize {
+  width: 200px;
+  height: 120px;
+  margin-right: 40px;
+}
+
+.icon_font {
+  list-style: none;
+  color:#B49661;
+  font-size: 40px;
+  font-family: 'Open Sans', sans-serif;
+}
+.icon_font:hover{
+  color:#B68B29;
+
+}
+
+a{
+  color: #B68B29;
+  font-family:'Open Sans', sans-serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #D4B97E;
+}
+
+.container{
+  width: 650px;
+  margin: 20px auto;   /* Set width
+  margin: 0 auto; /* Automatically set left/right margins */
+
+}
+
+.marged-bottom {
+  margin-bottom: 40px;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 1px 1px 2px #D4B97E;
+  padding: 50px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.img-circle{
+  border-radius: 50%;
+  width: 150px;
+  box-shadow: 1px 1px 2px #D4B97E;
+  border: 1px solid #B68B29;
+}
+
+.btn-gold{
+  background-color:#D4B97E;
+  border-radius: 3px;
+  padding: 10px 15px;
+  margin:30px 30px 30px 30px;
+  color: white;
+}
+
+.btn-gold:hover{
+  background-color:#B68B29;
+  color:white;
+  box-shadow: 1px 1px 2px #B68B29;
+  font-weight: bolder;
+}
+
+.list-inline > li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline{
+  padding-left: 0px;
+}
+
+td > p{
+  margin-top: -20px;
+}
+
+td > h3{
+  margin-top: -20px;
+}
+
+
